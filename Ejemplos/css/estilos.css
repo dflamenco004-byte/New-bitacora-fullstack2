@@ -1,0 +1,48 @@
+h1{
+     color: rgb(246, 246,248);
+    background-color:black;
+    border: 4px dashed rgb(14, 63, 167);
+    text-align: center;
+    border-radius: 15px;
+    font-family: cambria, cochin, Georgia, Times, 'times New Roman',serif;
+ font-family: "Big Shoulders Stencil", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+a:hover {
+    background-color: goldenrod;
+    color: black;
+    border-radius: 25px;
+    text-decoration: none;
+}   
+
+a{
+    text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
+
+}
+ section{ 
+    border: 1px solid black;
+}
+#sobre_mi{
+    background-color:oklab(85.306% -0.13259 0.02773);
+}
+#habilidades{
+    background-color: oklab(85.306% -0.13259 0.02773);
+    color:antiquewhite
+
+}
+body{
+ background-color:saddlebrown
+}
+root{
+   --primario: red;
+
+
+}
